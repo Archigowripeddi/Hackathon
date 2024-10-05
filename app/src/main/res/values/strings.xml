@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Codeathon</string>
+    <string name="register">Register</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="Password">Password\n</string>
+    <string name="Repassword">Repassword\n</string>
+    <string name="Aadhaarnumber">Aadhaarnumber</string>
+    <string name="Registerhere">Registerhere</string>
+</resources>
