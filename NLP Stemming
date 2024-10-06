@@ -1,0 +1,8 @@
+import nltk
+from nltk.stem 
+import PorterStemmer 
+porter_stemmer = PorterStemmer()
+word = "running"
+stemmed_porter = porter_stemmer.stem(word)
+print("Porter Stemmer:" , stemmed_porter)
+
